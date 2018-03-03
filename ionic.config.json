@@ -1,0 +1,8 @@
+{
+  "name": "si-se.ch",
+  "app_id": "a0c581be",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
